@@ -1,5 +1,3 @@
-# CellularHighways
-
 Python packages to install
 pip install ffmpeg-normalize
 pip install opencv-python
